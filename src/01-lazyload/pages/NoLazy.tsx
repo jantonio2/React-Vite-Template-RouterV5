@@ -4,5 +4,5 @@ export const NoLazy = () => {
     <h1>
       NoLazyLaoding - Component
     </h1>
-  )
+  );
 }

@@ -22,7 +22,7 @@ export const Navigation = () => {
                   <li key={ route.to } >
                     <NavLink
                       to={ route.to } 
-                      activeClassName='nav-active' exact
+                      activeClassName='nav-active'
                     >
                       { route.name }
                     </NavLink>
